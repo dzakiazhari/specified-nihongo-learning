@@ -9,6 +9,7 @@ To access the vocabulary lists, simply navigate to the relevant topic folder in 
 The following topics are currently available in the repository:
 
 - Electrical Engineering
+- Home Appliances
 
 New topics will be added periodically, so be sure to check back for updates.
 
