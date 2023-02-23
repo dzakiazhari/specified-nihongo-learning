@@ -10,7 +10,7 @@ The following topics are currently available in the repository:
 
 - Electrical Engineering
 - Home Appliances
-- Business Departments
+- Company Departments
 - etc
 
 New topics will be added periodically, so be sure to check back for updates.
